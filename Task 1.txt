@@ -1,0 +1,106 @@
+Task 1
+
+Test Scenario
+We gonna test 'Timesheet entry and approval' functionality. Obvously I dont have access to this application so my TC steps could not be accurate but I hope you put more attetion of process of testing rather that accurancy which is impossible without havin access to app.
+Step 1                                                                                                     Actual results:
+Preconditions:
+1. Google Chrome, Mozilla Firefox, Edge and Safari browsers should be installed on testing enviroment      Preconditions are met.
+2. User should have access to test/dev enviroment.
+3. User should have access to 15.6 (laptop) and 24 inch fullHD monitor screen sizes and tablet.
+4. Some tasks with time are added to myTime in OnePlace.
+
+Step 2
+Log on to OnePlace Timesheet on 24 inch FULLHD monitor on Google Chrome browser.                             User is logged on
+
+Step 3
+Open 'myTime' widget.                                                                                       'myTime' widget main screen is displayed.
+
+Step 4
+Press 'Add time on project' button.          														        'Add Time' modal is opened.
+
+Step 5
+Verify if following tabs are displayed:																	     All mentioned tabs are displayed. System works as expected.
+- my hours
+- my requests
+- calendar overview
+- team additional time
+
+Step 6
+Verify if user can move trought weeks by pressing arrow button (see attachment)                              User is able to change weeks. System works as expected.
+
+Step 7
+Verify if user is able to see all work days (from Monday to Friday) with correct date and hours added.       User is able to see all work days with correct data. System works as expected.
+
+Step 8
+Verify if on the list of 'Time total' user can see tasks and time spended on each task each day.             Data of tasks and time are displayed successfully. System works as expected.
+
+Step 9
+Verify if system calculate correctly time. Verify if column 'Total' coresponds with hours added to tasks.    System correctly calcualte time. System works as expected.
+
+Step 10
+Press on 'Edit' button for first taks.                                                                       Hour for first taks are now editable.
+
+Step 11
+Edit time for first task e.g. change for monday time from 2 to 4.                                            Time is set to 4.
+
+Step 12
+Press 'Save' button.																						 Time is changed for monday and first task. 
+
+Step 13
+Verify if system correctly recalculated fields.																 System recalculated fields successfully. System works as expected.
+
+Step 14
+Press 'Delete' button on first task.																		  Modal with message 'Do you really want to delete task 1 from list?' is displayed.
+
+Step 15
+Confirm modal by pressing 'Yes' button.																		  Task 1 has been successfully deleted from list. System works as expected.
+
+Step 16
+Press 'Add +' button.
+
+And so on and so on. The point is to test each button and field around this screenshot and see if everyting is works as expected. Tester needs to verify if this application meets standards given in acceptance cirteria or desing.
+
+Final steps:
+Step 30
+Repeat testing scenario for 15.6 (laptop) sreen and for tablet. Verify if every of UI element is displayed corerctly.   For all mentioned screens application works as expected.
+
+Step 31
+Repeat testing scenario for Mozilla Firefox                                                                      System works as expected.
+
+Step 32
+Repeat testing scenario for Microsoft Edge.                                                                      System works as expected.
+
+Step 33
+Repeat testing scenario for Safari.                                                                              System works as expected. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

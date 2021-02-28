@@ -1,0 +1,47 @@
+TASK 2
+
+BUG 1.
+Bug report
+Title: 
+OnePlace/myTime - Text in context box is not displayed correctly.
+
+System info:
+Enviroment: Live
+Credentials: usernametest/111111
+Notes: Occurance - Always
+Attachments: Screenshot and GIF
+Browser: Chrome, Firefox, Edge and Safari
+
+Steps to reproduce: (For visual representation looks for GIF_1 in attachments)
+Preconditions:
+Some tasks are added to myTime OnePlace with work hours filled.
+1. Log on to OnePlace and open myTime widget.
+2. For any of tast visile on list move cursor on the time with green mark and wait until context box is displayed.
+Actual result:
+Text in context box is not displayed correctly. Lack of proper padding. (See screenshot 1 in attachment)
+
+Expected result:
+Text is displayed correctly. Text can be readed fully and without trimming.
+
+BUG2.
+Bug report
+Title: 
+OnePlace/myTime - circle icons with days are doubled and not displayed properly.
+
+System info:
+Enviroment: Live
+Credentials: usernametest/111111
+Notes: Occurance - Always
+Attachments: Screenshot and GIF
+Browser: Chrome, Firefox, Edge and Safari
+
+Steps to reproduce: (For visual representation looks for GIF_1 in attachments)
+Preconditions:
+Some tasks are added to myTime OnePlace with work hours filled.
+1. Log on to OnePlace and open myTime widget.
+2. Scroll down on tasks list.
+Actual result:
+Circle icon on the top of the screen are doubled and icons on the top are trimmed on the bottom (See screenshot 1 in attachment)
+
+Expected result:
+Circle icons are not doubled and all of them are displayed correctly without graphical glitch.
